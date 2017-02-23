@@ -1,0 +1,16 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "http": "0.0.0",
+    "net": "^1.0.2",
+    "request": "^2.79.0",
+    "stream-buffers": "^3.0.1",
+    "url": "^0.11.0"
+  }
+}

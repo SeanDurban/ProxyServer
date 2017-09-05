@@ -22,7 +22,7 @@ To run proxy:
 node proxy.js
 ```
 
-To block URL enter the url into the console.
+Enter string into console to block a URL
 ```
 https://github.com
 ```
